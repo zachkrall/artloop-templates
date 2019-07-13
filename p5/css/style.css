@@ -6,10 +6,12 @@ padding for all elements on our page */
 }
 
 body{
-  background-color:#000000;
+  background-color:#fff;
+  text-align:center;
 }
 
-canvas{
-  width: 1080px;
-  height: 1920px;
+canvas#defaultCanvas0{
+  /* override default sizing */
+  height: 100vh !important;
+  width: calc( 100vh * 9 / 16 ) !important;
 }

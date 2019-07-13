@@ -6,6 +6,19 @@
 
 Art Loop is an art gallery display that rotates through generative art projects. 
 
+## Templates
+
+✅ [p5.js](/p5)
+⬜️ Three.js
+⬜️ Paper.js
+⬜️ Pts.js
+⬜️ D3.js
+⬜️ A-Frame (js)
+⬜️ openFrameworks (C++)
+⬜️ Cinder (C++)
+⬜️ Processing (Java)
+⬜️ Nannou (Rust)
+
 ## How do I use the examples files
 
 [ TO DO ]
