@@ -1,0 +1,15 @@
+*{
+  /* This resets our margin and
+padding for all elements on our page */
+  margin:0;padding:0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color:#000000;
+}
+
+canvas{
+  width: 1080px;
+  height: 1920px;
+}

@@ -1,0 +1,19 @@
+{
+  "name": "example-p5-art-loop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo no tests to run",
+    "dev": "browser-sync",
+    "start": "electron ."
+  },
+  "author": "Zach Krall <zach@zachkrall.com>",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^5.0.6"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
