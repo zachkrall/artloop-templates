@@ -4,7 +4,7 @@
 
 ## What is Art Loop?
 
-Art Loop is an art gallery display that rotates through generative art projects. 
+[Art Loop](https://github.com/zachkrall/art-loop) is an art gallery display that rotates through generative art projects. 
 
 ## Templates
 
