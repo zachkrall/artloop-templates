@@ -8,13 +8,13 @@
 
 ## available templates
 
-✅ [p5.js](/p5)
-<br/>✅ [Three.js](/three)
-<br/>⬜️ Paper.js
-<br/>⬜️ Pts.js
-<br/>⬜️ D3.js
+✅ [p5](/p5) (js)
+<br/>✅ [Three](/three) (js)
+<br/>⬜️ Paper (js)
+<br/>⬜️ Pts (js)
+<br/>⬜️ D3 (js)
 <br/>⬜️ A-Frame (js)
-<br/>⬜️ openFrameworks (C++)
+<br/>✅ [openFrameworks](/openFrameworks) (C++)
 <br/>⬜️ Cinder (C++)
 <br/>⬜️ Processing (Java)
 <br/>⬜️ Nannou (Rust)
