@@ -16,7 +16,7 @@
 <br/>⬜️ A-Frame (js)
 <br/>✅ [openFrameworks](/openFrameworks) (C++)
 <br/>⬜️ Cinder (C++)
-<br/>⬜️ Processing (Java)
+<br/>✅ [Processing](/processing) (Java)
 <br/>⬜️ Nannou (Rust)
 
 ## how do I use the examples files
