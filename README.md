@@ -16,7 +16,7 @@
 <br/>⬜️ A-Frame (js)
 <br/>✅ [openFrameworks](/openFrameworks) (C++)
 <br/>⬜️ Cinder (C++)
-<br/>⬜️ Unity (C#)
+<br/>✅ [Unity](/unity) (C#)
 <br/>✅ [Processing](/processing) (Java)
 <br/>⚠️ Nannou (Rust)
 
