@@ -14,8 +14,7 @@ function createWindow () {
     fullscreen: true,
     webPreferences: {
       preload: path.join(__dirname, 'preload.js')
-    },
-    backgroundColor: "#000000"
+    }
   })
 
   // and load the index.html of the app.

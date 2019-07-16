@@ -6,9 +6,6 @@
   http://p5js.org/reference/#/libraries/p5.sound
 */
 
-// Automatically resize our window
-window.resizeTo(1080,1920);
-
 // set global variables
 let time = 0,
     amp = 150,
@@ -21,7 +18,6 @@ function setup(){
 }
 
 function draw(){
-  background(10); // draws background color for each loop
   translate(width*0.5,height*0.5); // centers canvas
 
   push(); // push() ensures we are only setting color mode for this block
