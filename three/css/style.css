@@ -1,0 +1,22 @@
+*{
+  /* This resets our margin and
+padding for all elements on our page */
+  margin:0;padding:0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color:#fff;
+  text-align:center;
+  width:100%;height:100%;
+  overflow:hidden;
+
+  background-image:url('../textures/tile.jpg');
+  background-size: 50%;
+}
+
+canvas{
+  /* override default sizing */
+  height: 100vh !important;
+  width: 100vw !important;
+}
