@@ -21,6 +21,10 @@
     "appId": "your.id",
     "mac": {
       "category": "your.app.category.type"
+    },
+    "linux" : {
+      "target" : [ "AppImage" ],
+      "arch" : "armv7l"
     }
   }
 }
